@@ -318,8 +318,8 @@ All sensitive data and configuration are managed via `config.env`. **Never commi
 ## Credits
 
 - Developed by Abdelrahman (and contributors)
-- For any questions, contact: abdoelsaeed290@gmail.com
+- For any questions, contact: abdelrahman5520032019@gmail.com || abdoelsaeed290@gmail.com
 
 ---
 
-*This README was generated to be as comprehensive and clear as possible. If you have any questions or need more details, check the code or contact with me on abdoelsaeed290@gmail.com.*
+*This README was generated to be as comprehensive and clear as possible. If you have any questions or need more details, check the code or contact with me on abdoelsaeed290@gmail.com || abdelrahman5520032019@gmail.com*
